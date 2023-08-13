@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ziya Yildirim</h1>
-<h3 align="center">Front-End Developer and Team Lead</h3>
+<h1 align="left">Hi 👋, I'm Ziya Yildirim</h1>
+<h3 align="left"> Software developer based in Istanbul and working as a Front-end Team leader at Akinon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yildirimzia&label=Profile%20views&color=0e75b6&style=flat" alt="yildirimzia" /> </p>
 
@@ -8,15 +8,6 @@
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **zia.yildirimm@gmail.com**
-
-### Hi there 👋, My name is Ziya 
-#### Software developer based in Istanbul and working as a Front-end Team leader at Akinon.
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
