@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ziya Yildirim</h1>
-<h3 align="left"> Software developer based in Istanbul and working as a Front-end Team lead at Akinon.</h3>
+<h3 align="left" style=font-size="1em"> Software developer based in Istanbul and working as a Front-end Team lead at Akinon.</h3>
 
 - 📫 How to reach me **zia.yildirimm@gmail.com**
 
