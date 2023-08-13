@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]()
+
 <h1 align="center">Hi 👋, I'm Ziya Yildirim</h1>
 <h3 align="center">Front-End Developer and Team Lead</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
